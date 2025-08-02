@@ -1,0 +1,10 @@
+{
+  "name": "bucky",
+  "description": "Bucky, an AI interview assistant with active listening, clipboard jacking, and simulated on-screen text extraction.",
+  "requestFramePermissions": [
+    "microphone",
+    "clipboard-read",
+    "display-capture"
+  ],
+  "prompt": ""
+}
