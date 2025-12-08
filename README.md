@@ -190,3 +190,4 @@ If you encounter any issues or have questions:
 
 > Security note: `.env.local` is intentionally ignored to prevent accidental commits of API keys. Do NOT commit your API key to the repository.
 
+# Bucky__AI
