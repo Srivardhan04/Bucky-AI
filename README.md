@@ -180,3 +180,10 @@ If you encounter any issues or have questions:
 **Made with ❤️ by the Bucky Team**
 
 *Bucky - Your expert programming companion*
+
+---
+
+### Setup status
+
+- **Dependencies installed** and **dev server started** on 2025-12-09 by **Srivardh04**.
+
