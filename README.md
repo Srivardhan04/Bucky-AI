@@ -186,4 +186,7 @@ If you encounter any issues or have questions:
 ### Setup status
 
 - **Dependencies installed** and **dev server started** on 2025-12-09 by **Srivardh04**.
+- **API Key**: Configured locally in `.env.local` by **Srivardh04** (this file is ignored by git and is not committed).
+
+> Security note: `.env.local` is intentionally ignored to prevent accidental commits of API keys. Do NOT commit your API key to the repository.
 
