@@ -1,45 +1,45 @@
-# Bucky AI Assistant 🤖
+# Bucky AI Assistant 
 
 A powerful, desktop-based AI programming assistant built with React, TypeScript, and Google's Gemini AI. Bucky provides an intuitive interface for technical assistance with voice commands, clipboard integration, and screen capture capabilities.
 
 ![Bucky AI Assistant](https://img.shields.io/badge/React-19.1.1-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue) ![Vite](https://img.shields.io/badge/Vite-6.2.0-purple) ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-2.5%20Flash-green)
 
-## ✨ Features
+## Features
 
 ### 🎤 **Voice Interaction**
 - **Voice Commands**: Use spacebar or click the microphone button to ask questions verbally
 - **Active Listening**: Enable continuous listening mode for hands-free operation
 - **High-Quality Audio Processing**: Supports WebM audio format for optimal voice recognition
 
-### 📋 **Clipboard Integration**
+### **Clipboard Integration**
 - **Clipboard Jacking**: Quick access to clipboard content with `Ctrl+Shift+C`
 - **Smart Analysis**: Automatically processes and analyzes pasted code or text
 - **Seamless Workflow**: Integrate clipboard content into your AI conversations
 
-### 🖥️ **Screen Capture & Analysis**
+### **Screen Capture & Analysis**
 - **Screen Scanning**: Capture and analyze any part of your screen with `Ctrl+Shift+O`
 - **Visual Context**: Bucky can see and understand what's on your screen
 - **Code Analysis**: Perfect for debugging, code review, and technical explanations
 
-### 🎯 **Smart AI Assistant**
+### **Smart AI Assistant**
 - **Gemini 2.5 Flash**: Powered by Google's latest AI model for expert-level responses
 - **Programming Expertise**: Specialized in technical and programming questions
 - **Context-Aware**: Understands your current conversation and provides relevant answers
 - **Streaming Responses**: Real-time, typing-style responses for better user experience
 
-### 🎨 **Modern UI/UX**
+### **Modern UI/UX**
 - **Responsive Design**: Clean, modern interface optimized for desktop use
 - **Hide Mode**: Minimize to a discreet widget with `Ctrl+Shift+H`
 - **Draggable Widget**: Reposition the hidden widget anywhere on your screen
 - **Dark Theme**: Beautiful dark mode with purple accents
 
-### ⌨️ **Keyboard Shortcuts**
+### **Keyboard Shortcuts**
 - **Spacebar**: Start/stop voice recording
 - **Ctrl+Shift+C**: Clipboard jacking
 - **Ctrl+Shift+O**: Screen capture
 - **Ctrl+Shift+H**: Toggle hide mode
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18+ 
@@ -76,7 +76,7 @@ A powerful, desktop-based AI programming assistant built with React, TypeScript,
    npm run preview
    ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 - `GEMINI_API_KEY`: Your Google Gemini API key (required)
@@ -88,7 +88,7 @@ The project uses Vite with custom configuration for:
 - TypeScript support
 - ES modules
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 bucky/
@@ -108,7 +108,7 @@ bucky/
 - **CodeBlock**: Syntax-highlighted code display with copy functionality
 - **HideWidget**: Minimal widget for hidden mode
 
-## �� Use Cases
+## Use Cases
 
 ### For Developers
 - **Code Review**: Paste code and get instant feedback
@@ -121,14 +121,14 @@ bucky/
 - **Learning**: Understand complex technical concepts
 - **Workflow**: Streamline technical tasks with AI assistance
 
-## 🔒 Permissions Required
+## Permissions Required
 
 The application requires the following browser permissions:
 - **Microphone**: For voice commands and recording
 - **Clipboard**: For reading clipboard content
 - **Display Capture**: For screen scanning functionality
 
-## 🛠️ Development
+## Development
 
 ### Tech Stack
 - **Frontend**: React 19.1.1 with TypeScript
@@ -148,7 +148,7 @@ The application requires the following browser permissions:
 - CSS custom properties for theming
 - Responsive design principles
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -156,18 +156,18 @@ The application requires the following browser permissions:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Google Gemini AI** for providing the AI capabilities
 - **React Team** for the amazing framework
 - **Vite Team** for the fast build tool
 - **Open Source Community** for inspiration and support
 
-## 📞 Support
+## Support
 
 If you encounter any issues or have questions:
 - Check the [Issues](issues) page
@@ -177,7 +177,7 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by the Bucky Team**
+**Made by the Bucky Team**
 
 *Bucky - Your expert programming companion*
 
