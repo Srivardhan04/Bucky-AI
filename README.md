@@ -6,7 +6,7 @@ A powerful, desktop-based AI programming assistant built with React, TypeScript,
 
 ## Features
 
-### 🎤 **Voice Interaction**
+### **Voice Interaction**
 - **Voice Commands**: Use spacebar or click the microphone button to ask questions verbally
 - **Active Listening**: Enable continuous listening mode for hands-free operation
 - **High-Quality Audio Processing**: Supports WebM audio format for optimal voice recognition
