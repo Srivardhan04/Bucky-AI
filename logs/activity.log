@@ -5,3 +5,4 @@
 [2026-03-13T10:22:08.347Z] configure auto-deploy for staging branch
 [2026-03-14T11:54:12.677Z] update error messages to be more user-friendly
 [2026-03-15T08:12:06.437Z] add timeout handling for slow network requests
+[2026-03-15T16:36:50.405Z] validate error responses match schema
