@@ -1,3 +1,4 @@
 [2026-03-16T07:47:09.664Z] introduce dark mode toggle
 [2026-03-16T11:32:58.444Z] document database migration process
 [2026-03-16T11:42:04.406Z] update changelog for v2.1 release
+[2026-03-17T12:57:10.362Z] implement input sanitization middleware
