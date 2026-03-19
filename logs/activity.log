@@ -3,3 +3,4 @@
 [2026-03-16T11:42:04.406Z] update changelog for v2.1 release
 [2026-03-17T12:57:10.362Z] implement input sanitization middleware
 [2026-03-18T09:14:11.003Z] resolve flaky timeout in database connection
+[2026-03-19T13:26:31.547Z] optimize database query with proper indexing
