@@ -3,3 +3,4 @@
 [2026-03-25T10:17:44.679Z] update prettier config for consistency
 [2026-03-26T05:19:31.274Z] replace callback pattern with async/await
 [2026-03-27T06:53:39.438Z] set up environment config for staging deployment
+[2026-03-28T07:34:00.135Z] implement graceful shutdown on SIGTERM
