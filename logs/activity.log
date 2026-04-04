@@ -6,3 +6,4 @@
 [2026-04-02T16:31:19.911Z] update prettier config for consistency
 [2026-04-03T11:26:43.169Z] simplify nested conditional blocks
 [2026-04-04T10:06:22.880Z] refactor config loading to support multiple envs
+[2026-04-04T11:02:20.115Z] split monolithic handler into services
