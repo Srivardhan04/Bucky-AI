@@ -6,3 +6,4 @@
 [2026-04-16T08:36:39.993Z] add support for batch processing
 [2026-04-16T11:11:08.310Z] improve startup time by deferring non-critical init
 [2026-04-17T05:48:16.416Z] wip: save progress on feature branch
+[2026-04-17T09:09:33.122Z] prevent duplicate entries in cache
