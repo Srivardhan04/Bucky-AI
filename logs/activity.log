@@ -2,3 +2,4 @@
 [2026-04-21T10:10:02.596Z] add rate limiting to public endpoints
 [2026-04-21T12:39:24.776Z] remove trailing whitespace across project
 [2026-04-22T14:06:05.798Z] simplify auth middleware chain
+[2026-04-23T08:23:27.614Z] clean up commented-out dead code
