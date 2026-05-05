@@ -1,1 +1,2 @@
 [2026-05-04T10:34:15.180Z] add search with debounced input
+[2026-05-05T07:42:13.767Z] resolve flaky timeout in database connection
