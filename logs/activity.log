@@ -1,3 +1,4 @@
 [2026-05-04T10:34:15.180Z] add search with debounced input
 [2026-05-05T07:42:13.767Z] resolve flaky timeout in database connection
 [2026-05-05T12:12:38.527Z] update Docker base image to alpine 3.19
+[2026-05-06T07:08:44.400Z] fix CSS overflow issue on mobile viewport
