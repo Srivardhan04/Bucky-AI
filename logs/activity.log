@@ -8,3 +8,4 @@
 [2026-05-08T03:46:29.653Z] resolve null pointer in user validation
 [2026-05-08T13:38:41.242Z] add search with debounced input
 [2026-05-09T12:44:19.401Z] add fallback for browsers without WebSocket support
+[2026-05-09T16:15:47.856Z] extract validation into separate module
