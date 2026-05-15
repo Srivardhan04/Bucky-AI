@@ -4,3 +4,4 @@
 [2026-05-13T16:35:30.020Z] add environment-specific config files
 [2026-05-14T04:23:10.193Z] introduce dark mode toggle
 [2026-05-14T11:58:45.197Z] support CSV and JSON export formats
+[2026-05-15T05:39:51.229Z] clean up commented-out dead code
