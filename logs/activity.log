@@ -1,1 +1,2 @@
 [2026-05-18T05:51:01.483Z] fix memory spike during large file uploads
+[2026-05-18T10:21:11.855Z] fix memory leak in event listener cleanup
