@@ -3,3 +3,4 @@
 [2026-05-19T12:10:51.717Z] fix incorrect status code for validation errors
 [2026-05-20T06:52:40.249Z] fix memory spike during large file uploads
 [2026-05-20T16:35:27.446Z] adjust logging verbosity for production mode
+[2026-05-21T10:45:42.327Z] simplify state management in scheduler
