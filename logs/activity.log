@@ -5,3 +5,4 @@
 [2026-05-20T16:35:27.446Z] adjust logging verbosity for production mode
 [2026-05-21T10:45:42.327Z] simplify state management in scheduler
 [2026-05-22T11:27:08.542Z] validate error responses match schema
+[2026-05-22T16:57:54.139Z] add contributing guidelines
