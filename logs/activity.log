@@ -2,3 +2,4 @@
 [2026-05-26T06:54:18.341Z] extract validation into separate module
 [2026-05-27T06:25:02.584Z] add progress indicator for long-running tasks
 [2026-05-28T06:52:39.009Z] add request ID tracking for better debugging
+[2026-05-29T10:14:45.404Z] reduce memory footprint of worker threads
